@@ -9,5 +9,5 @@ cargo build
 trunk serve --open
 
 # Build for production
-trunk build --release
+trunk build --release --public-url /prettifyjsonstring
 ```
